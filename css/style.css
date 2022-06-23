@@ -1,0 +1,13 @@
+.main-header {
+
+}
+
+.main-header__logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.main-header__logo img {
+    width: 100px;
+}
+
